@@ -1,3 +1,8 @@
+JOSÉ LEITE - 22406904
+
+
+
+
 # Aula 2 – Sistemas Operativos (2025)
 
 Este repositório contém exemplos e exercícios práticos usados na Aula 2 de Sistemas Operativos na ULHT.  
